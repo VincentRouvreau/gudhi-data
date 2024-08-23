@@ -1,0 +1,11 @@
+The original dataset comes from
+https://sourceforge.net/projects/flavia/files/Leaf%20Image%20Dataset/1.0/Leaves.tar.bz2/download
+
+This dataset is based on the paper A Leaf Recognition Algorithm for Plant classification Using Probabilistic Neural
+Network, by Stephen Gang Wu, Forrest Sheng Bao, Eric You Xu, Yu-Xuan Wang, Yi-Fan Chang and Qiao-Liang Xiang, published
+at IEEE 7th International Symposium on Signal Processing and Information Technology, Dec. 2007.
+
+Please read carefully the terms of use of this dataset (https://flavia.sourceforge.net/) before using it.
+
+The images have been black and whited, resized in 30 x 30 and then flattened. The last column of the dataset is the
+convexity value. Please refer to data_selecta.py for more details.

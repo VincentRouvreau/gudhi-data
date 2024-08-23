@@ -25,3 +25,11 @@ For instance, [Stanford bunny LICENSE](points/bunny/LICENSE) applies to [Stanfor
 | Model Name | Source | Description                                                                                                                                                                           |
 |------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Topological Wheels](timeseries/topological_wheels/tw-data-annotated.png) | [DataShape](https://www.inria.fr/fr/datashape) | 10 CSV files where each file has 64 timeseries over 10000 timestamps each, and a $y$ ground truth indicating anomalous regime. See [README](timeseries/topological_wheels/README.md). |
+
+## Images
+
+| Model Name | Source | Description                                                                                                                                                                           |
+|------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Flavia leaves](images/flavia/flavia_convexity.csv.gz) | [Flavia](https://flavia.sourceforge.net/)[^1] | Compressed CSV file with 1907 flattened black & white images (900 first values) and the image convexity value (last column value). |
+
+[^1]: *Stephen Gang Wu, Forrest Sheng Bao, Eric You Xu, Yu-Xuan Wang, Yi-Fan Chang and Chiao-Liang Shiang, A Leaf Recognition Algorithm for Plant classification Using Probabilistic Neural Network, IEEE 7th International Symposium on Signal Processing and Information Technology, Dec. 2007, Cario, Egypt*
