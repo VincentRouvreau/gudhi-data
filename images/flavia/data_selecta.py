@@ -1,3 +1,14 @@
+# Based on https://github.com/renata-turkes/turkevs2022on/blob/main/SRC/data_construction.py
+# Author: Renata Turkeš
+# This file is part of the Gudhi Library - https://gudhi.inria.fr/ -
+# which is released under MIT.
+# Author(s):       Sean Bontemps, Vincent Rouvreau
+#
+# Copyright (C) 2024 Inria
+#
+# Modification(s):
+#   - YYYY/MM Author: Description of the modification
+
 import argparse
 import os
 import numpy as np
